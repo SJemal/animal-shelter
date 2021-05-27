@@ -5,10 +5,11 @@
 
 .sidebar {
   width: 30%;
-  float: right;
-  background-color: rgb(226, 226, 98);
   margin: 10px;
-  border: 6px solid red;
+  float: right;
+  background-color: rgb(123, 207, 142);
+  
+  border: 6px solid rgb(14, 56, 33);
   padding: 2px;
   text-align: center;
 }
